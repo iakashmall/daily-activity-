@@ -304,3 +304,4 @@
 2026-11-23 17:48:05 — style: format code consistently
 2026-11-23 17:52:05 — docs: improve readme clarity
 2026-11-24 19:03:21 — feat: add minor utility function
+2026-11-24 19:04:28 — perf: optimize loop performance
